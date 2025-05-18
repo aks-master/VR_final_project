@@ -29,5 +29,6 @@ This project explores multimodal visual question answering (VQA) using the Amazo
 ## Notes
 
 - Ensure you have all dependencies installed as mentioned in the report and the requirements.txt.
+- After downloading the code from google drive. unzip it and copy your own data into its data folder to run model inference on it. read the instrcuctions.txt. We have worked on Kaggle and local conda environment.
 
 ---
