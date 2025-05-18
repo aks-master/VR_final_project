@@ -1,0 +1,2 @@
+github link : https://github.com/aks-master/VR_final_project.git
+The gihub link contains the report, and the link to donwload the model and inference scripts. and all other codes used.
